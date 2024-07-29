@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/dxzenith/gaianet-node/main/script.sh && c
 - Go to https://www.gaianet.ai/node , click on Add Node and add your node and device id.
 - Find the link to your AI. For example : https://0x588db55d1e19e1c7ed6189f7e129539c1b1d1fdc.us.gaianet.network/chatbot-ui/index.html
 - Chat with that bot and increase your throughputs, It may take 1 hr to 2 hr to update throughputs
-- Also try to grab node and profile roles on Galxe
+- Also try to grab node and profile roles on Galxe (https://app.galxe.com/quest/Gaianet/GCNRFtgfoM)
 
 ## Notes for Codespace User
 
