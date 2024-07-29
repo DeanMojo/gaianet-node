@@ -21,9 +21,11 @@ screen -S Gaianet
 wget https://raw.githubusercontent.com/dxzenith/gaianet-node/main/script.sh && chmod +x script.sh && ./script.sh
 ```
 
-- To detach from screen session, Press `Ctrl + A + D`
+- Copy your Node ID and Device ID. This is very important.
+- Go to https://www.gaianet.ai/node , click on Add Node and add your node and device id.
+- Find the link to your AI. For example : https://0x588db55d1e19e1c7ed6189f7e129539c1b1d1fdx.us.gaianet.network/chatbot-ui/index.html
 - Chat with that bot and increase your throughputs, It may take 1 hr to 2 hr to update throughputs
-- Also try to grab roles on Galxe
+- Also try to grab node and profile roles on Galxe
 
 ## Notes for Codespace User
 
